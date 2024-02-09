@@ -14,3 +14,6 @@ docker-compose up
 ```
 ./gradlew clean test
 ```
+
+# Use cases
+![Use cases](./docs/E%20Commerce.png "Use cases")
